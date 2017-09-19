@@ -1,6 +1,6 @@
 package bloom
 
-import "github.com/EricLagergren/siphash"
+import "github.com/instabid/siphash"
 
 const (
 	k0 = 17697571051839533707
